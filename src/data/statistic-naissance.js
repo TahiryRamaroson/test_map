@@ -31,16 +31,16 @@ export const StatisticNaisance =
             "NbNaissance": 200
         },
         "Analamanga":{
-            "NbNaissance": 200
+            "NbNaissance": 1200
         },
         "Itasy":{
-            "NbNaissance": 200
+            "NbNaissance": 750
         },
         "Menabe":{
-            "NbNaissance": 200
+            "NbNaissance": 900
         },
-        "Vakinakaratra":{
-            "NbNaissance": 200
+        "Vakinankaratra":{
+            "NbNaissance": 500
         },
         "Amoron'i Mania":{
             "NbNaissance": 200
@@ -52,7 +52,7 @@ export const StatisticNaisance =
             "NbNaissance": 200
         },
         "Haute Matsiatra":{
-            "NbNaissance": 200
+            "NbNaissance": 0
         },
         "Ihorombe":{
             "NbNaissance": 200
@@ -61,7 +61,7 @@ export const StatisticNaisance =
             "NbNaissance": 200
         },
         "Anosy":{
-            "NbNaissance": 200
+            "NbNaissance": 20
         },
         "Androy":{
             "NbNaissance": 200
